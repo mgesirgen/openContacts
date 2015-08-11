@@ -1,0 +1,1 @@
+openContacts is a new adress book software to learn PHP faster
